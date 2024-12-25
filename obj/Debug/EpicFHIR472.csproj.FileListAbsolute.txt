@@ -1,0 +1,7 @@
+C:\Users\sauda\source\repos\EpicFHIR472\bin\Debug\EpicFHIR472.exe.config
+C:\Users\sauda\source\repos\EpicFHIR472\bin\Debug\EpicFHIR472.exe
+C:\Users\sauda\source\repos\EpicFHIR472\bin\Debug\EpicFHIR472.pdb
+C:\Users\sauda\source\repos\EpicFHIR472\obj\Debug\EpicFHIR472.csproj.AssemblyReference.cache
+C:\Users\sauda\source\repos\EpicFHIR472\obj\Debug\EpicFHIR472.csproj.CoreCompileInputs.cache
+C:\Users\sauda\source\repos\EpicFHIR472\obj\Debug\EpicFHIR472.exe
+C:\Users\sauda\source\repos\EpicFHIR472\obj\Debug\EpicFHIR472.pdb
