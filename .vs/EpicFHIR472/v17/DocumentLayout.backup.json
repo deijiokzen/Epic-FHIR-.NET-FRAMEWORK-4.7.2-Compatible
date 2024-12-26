@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Vscode Projects\\Personal Website\\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0747C2CC-73DE-4D2C-AE06-05A577034B22}|EpicFHIR472.csproj|e:\\vscode projects\\personal website\\epic-fhir-.net-framework-4.7.2-compatible\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0747C2CC-73DE-4D2C-AE06-05A577034B22}|EpicFHIR472.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0747C2CC-73DE-4D2C-AE06-05A577034B22}|EpicFHIR472.csproj|e:\\vscode projects\\personal website\\epic-fhir-.net-framework-4.7.2-compatible\\rsa to xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0747C2CC-73DE-4D2C-AE06-05A577034B22}|EpicFHIR472.csproj|solutionrelative:rsa to xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Vscode Projects\\Personal Website\\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Vscode Projects\\Personal Website\\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:45:41.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RSA to XML.cs",
+              "DocumentMoniker": "E:\\Vscode Projects\\Personal Website\\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\\RSA to XML.cs",
+              "RelativeDocumentMoniker": "RSA to XML.cs",
+              "ToolTip": "E:\\Vscode Projects\\Personal Website\\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\\RSA to XML.cs",
+              "RelativeToolTip": "RSA to XML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:45:39.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

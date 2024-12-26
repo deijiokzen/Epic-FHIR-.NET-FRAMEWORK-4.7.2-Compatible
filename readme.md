@@ -66,4 +66,4 @@ This program interacts with an external FHIR API to fetch patient data. It first
 ---
 
 ## Reference
-- **RSA PEM to XML Conversion**: [Jensign OpenSSL Key Conversion](http://www.jensign.com/opensslkey/opensslkey.cs)
+- **RSA PEM to XML Conversion**: [Jensign OpenSSL Key Conversion](https://www.jensign.com/dotnet/opensslkey/opensslkey.cs)

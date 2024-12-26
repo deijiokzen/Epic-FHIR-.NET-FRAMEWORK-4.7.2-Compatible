@@ -5,3 +5,10 @@ C:\Users\sauda\source\repos\EpicFHIR472\obj\Debug\EpicFHIR472.csproj.AssemblyRef
 C:\Users\sauda\source\repos\EpicFHIR472\obj\Debug\EpicFHIR472.csproj.CoreCompileInputs.cache
 C:\Users\sauda\source\repos\EpicFHIR472\obj\Debug\EpicFHIR472.exe
 C:\Users\sauda\source\repos\EpicFHIR472\obj\Debug\EpicFHIR472.pdb
+E:\Vscode Projects\Personal Website\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\bin\Debug\EpicFHIR472.exe.config
+E:\Vscode Projects\Personal Website\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\bin\Debug\EpicFHIR472.exe
+E:\Vscode Projects\Personal Website\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\bin\Debug\EpicFHIR472.pdb
+E:\Vscode Projects\Personal Website\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\obj\Debug\EpicFHIR472.csproj.AssemblyReference.cache
+E:\Vscode Projects\Personal Website\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\obj\Debug\EpicFHIR472.csproj.CoreCompileInputs.cache
+E:\Vscode Projects\Personal Website\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\obj\Debug\EpicFHIR472.exe
+E:\Vscode Projects\Personal Website\Epic-FHIR-.NET-FRAMEWORK-4.7.2-Compatible\obj\Debug\EpicFHIR472.pdb
